@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Mohan!
 
 <a href="https://www.linkedin.com/in/mohan-mohadikar-84a911187/">
-  <img align="left" alt="Mohan's LinkdeIN" width="70px" src="https://www.vectorico.com/download/social_media/Linkedin-full-logo.png" />
+  <img align="left" alt="Mohan's LinkdeIN" width="90px" src="https://www.vectorico.com/download/social_media/Linkedin-full-logo.png" />
 </a>
 
 <a href="https://www.kaggle.com/androsstrk">
-  <img align="left" alt="Mohan's Kaggle" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
+  <img align="left" alt="Mohan's Kaggle" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
 </a>
 
 
