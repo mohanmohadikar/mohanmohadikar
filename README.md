@@ -20,7 +20,7 @@ I'm actively seeking internships and research opportunities.
   
   <img align="right" width="300" alt="" src="https://raw.githubusercontent.com/mohanmohadikar/mohanmohadikar/main/image.png" />
   <br>
-**About me:**
+#### About me:
 
 - 🛠 Currently working with Java, C++, Python, Html5/CSS, JavaScript, .
 - 👨🏻‍💻 I’m looking to collaborate in innovative start ups.
