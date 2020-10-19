@@ -1,11 +1,13 @@
 ### Hi there 👋, I'm Mohan!
 
-<a href="https://www.kaggle.com/androsstrk">
-  <img align="left" alt="Mohan's Kaggle" height="40px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
-</a>
 <a href="https://www.linkedin.com/in/mohan-mohadikar-84a911187/">
-  <img align="left" alt="Mohan's LinkdeIN" width="80px" src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" />
+  <img align="left" alt="Mohan's LinkdeIN" width="60px" src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" />
 </a>
+
+<a href="https://www.kaggle.com/androsstrk">
+  <img align="left" margin="300px" alt="Mohan's Kaggle" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
+</a>
+
 
 <br />
 <br />
@@ -16,9 +18,7 @@ Hi, I'm Mohan Mohadikar, a budding Software Developer. I am currently a final ye
 I'm actively seeking internships and research opportunities.
 
   
-  <img align="right" height="350" width="350" alt="" src="https://raw.githubusercontent.com/mohanmohadikar/mohanmohadikar/main/image.png" />
-  <br>
-  <br>
+  <img align="right" width="300" alt="" src="https://raw.githubusercontent.com/mohanmohadikar/mohanmohadikar/main/image.png" />
   <br>
   <br>
   <br>
