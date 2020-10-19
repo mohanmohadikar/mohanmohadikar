@@ -1,17 +1,18 @@
 ### Hi there 👋, I'm Mohan!
 
 <a href="https://www.linkedin.com/in/mohan-mohadikar-84a911187/">
-  <img align="left" alt="Mohan's LinkdeIN" width="100px" src="https://www.vectorico.com/download/social_media/Linkedin-full-logo.png" />
+  <img align="left" alt="Mohan's LinkdeIN" width="70px" src="https://www.vectorico.com/download/social_media/Linkedin-full-logo.png" />
 </a>
 
 <a href="https://www.kaggle.com/androsstrk">
-  <img align="left" alt="Mohan's Kaggle" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
+  <img align="left" alt="Mohan's Kaggle" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
 </a>
 
 
-<br />
-<br />
-<br />
+<br>
+<br>
+<br>
+<br>
 
 Hi, I'm Mohan Mohadikar, a budding Software Developer. I am currently a final year CSE student skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
 
