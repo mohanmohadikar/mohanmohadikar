@@ -15,7 +15,9 @@ Hi, I'm Mohan Mohadikar, a budding Software Developer. I am currently a final ye
 
 I'm actively seeking internships and research opportunities.
 
-  <img align="right" height="350" width="350" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma.gif" />
+  <img align="right" height="250" width="150" alt="" src="https://c2techs.net/wp-content/uploads/2012/09/Java_Logo[1].png" />
+  <img align="right" height="250" width="250" alt="" src="https://pluralsight.imgix.net/paths/python-7be70baaac.png" />
+  <img align="right" height="200" width="400" alt="" src="https://www.pngitem.com/pimgs/m/78-787363_transparent-javascript-icon-png-html-css-js-png.png" />
 
 **About me:**
 
