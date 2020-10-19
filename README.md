@@ -13,7 +13,7 @@
 <br>
 
 
-Hi, I'm Mohan Mohadikar, a budding Software Developer. I am currently a final year CSE student skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
+Hi, I'm Mohan Mohadikar, a budding Software Developer. I am a final year CSE student skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
 
 I'm actively seeking internships and research opportunities.
 
