@@ -10,9 +10,7 @@
 
 
 <br>
-<br>
-<br>
-<br>
+
 
 Hi, I'm Mohan Mohadikar, a budding Software Developer. I am currently a final year CSE student skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
 
@@ -20,7 +18,6 @@ I'm actively seeking internships and research opportunities.
 
   
   <img align="right" width="300" alt="" src="https://raw.githubusercontent.com/mohanmohadikar/mohanmohadikar/main/image.png" />
-  <br>
   <br>
 **About me:**
 
