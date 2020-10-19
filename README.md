@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, I'm Mohan!
 
-<!--
-**mohanmohadikar/mohanmohadikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.kaggle.com/androsstrk">
+  <img align="left" alt="Mohan's Twitter" width="40px" src="https://img.icons8.com/nolan/2x/twitter-squared.png" />
+</a>
+<a href="https://www.linkedin.com/in/mohan-mohadikar-84a911187/">
+  <img align="left" alt="Mohan's LinkdeIN" width="40px" src="https://img.icons8.com/nolan/2x/linkedin.png" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Mohan Mohadikar, a budding Software Developer. I am currently a final year CSE student skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
+
+I'm actively seeking internships and research opportunities.
+
+  <img align="right" height="350" width="350" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma.gif" />
+
+**About me:**
+
+- 🛠 Currently working with Java, C++, Python, Html5/CSS, JavaScript, .
+- 👨🏻‍💻 I’m looking to collaborate in innovative start ups.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: mohadikar.mohan@sitpune.edu.in
+
