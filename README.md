@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Mohan!
 
 <a href="https://www.linkedin.com/in/mohan-mohadikar-84a911187/">
-  <img align="left" alt="Mohan's LinkdeIN" width="60px" src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" />
+  <img align="left" alt="Mohan's LinkdeIN" width="150px" src="https://www.vectorico.com/download/social_media/Linkedin-full-logo.png" />
 </a>
 
 <a href="https://www.kaggle.com/androsstrk">
-  <img align="left" margin="300px" alt="Mohan's Kaggle" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
+  <img align="left" alt="Mohan's Kaggle" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
 </a>
 
 
@@ -19,8 +19,6 @@ I'm actively seeking internships and research opportunities.
 
   
   <img align="right" width="300" alt="" src="https://raw.githubusercontent.com/mohanmohadikar/mohanmohadikar/main/image.png" />
-  <br>
-  <br>
   <br>
   <br>
 **About me:**
