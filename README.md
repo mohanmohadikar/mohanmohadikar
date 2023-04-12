@@ -34,4 +34,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-/in/mohan-mm/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohan-mm/)](https://www.linkedin.com/in/mohan-mm/) 
+[![Linkedin Badge](https://img.shields.io/badge/-mohan-mm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohan-mm/)](https://www.linkedin.com/in/mohan-mm/) 
